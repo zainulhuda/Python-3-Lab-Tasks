@@ -1,0 +1,3 @@
+He = "Tom"
+She = "Sarah"
+print(He, She)
