@@ -1,9 +1,0 @@
-Num_of_cars = 52
-Num_of_Bikes = 8
-Total_num_of_vehicles = Num_of_cars + Num_of_Bikes
-print(Total_num_of_vehicles)
-
-Total_num_of_vehicles = 60
-Num_of_cars = 52
-Num_of_bikes = Total_num_of_vehicles - Num_of_cars
-print(Num_of_bikes)
